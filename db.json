@@ -1,7 +1,7 @@
 {
   "courseName": "Python - разработчик",
   "courseLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png",
-  "description": "Python - это высокоуровневый язык программирования ...",
+  "description": "Python — это высокоуровневый язык программирования общего назначения, который используется в том числе и для разработки веб-приложений. Язык ориентирован на повышение производительности разработчика и читаемости кода.",
   "mentorAndDate": {
     "Алексей Алексеевич": [
       "12.12.2022г 17:00",
